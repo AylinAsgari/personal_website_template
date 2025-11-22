@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Aylin Asgariasl"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/flower.jpg"
   bio              : computer engineering student
   location         : "Tehran"
   email            : al.asgariasl@gmail.com
   # twitter: sauleh_e
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
+  github: AylinAsgari
   # instagram: saulehe
   links:
     - label: "Email"

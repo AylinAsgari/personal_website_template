@@ -10,5 +10,5 @@ comments: false
 
 
 * [Classical poetry](https://ganjoor.net/)
-*‌ Going out with friends
+* Going out with friends
 

@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "programming"
+    url: /programming/
   - title: "Courses"
     url: /courses/
   - title: "Hobbies"
@@ -8,8 +10,7 @@ main:
     url: /gallery/
   - title: "Blog"
     url: /blog/
-  - title: "programming"
-    url: /programming/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
